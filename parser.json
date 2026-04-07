@@ -2,6 +2,5 @@
   "lang": "gdscript",
   "url": "https://github.com/PrestonKnopp/tree-sitter-gdscript",
   "semver": false,
-  "parser_version": "9686853b696db07118ad110e440d6de0ca6498b4",
-  "location": null
+  "parser_version": "9686853b696db07118ad110e440d6de0ca6498b4"
 }
